@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"ProTec Admin"
+	"version"			"0.1"
+	"up_date"			"20160111"
+	"author_name"			"MyndPhreak"
+	"author_email"			"myndphreak1@gmail.com"
+	"author_url"			""
+	"info"				"ProTec Admin - Advanced Administration Mod for Garry's Mod"
+}
